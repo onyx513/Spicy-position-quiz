@@ -95,6 +95,7 @@
             animation: neon-flicker 2s infinite;
         }
     </style>
+    <meta name="monetag" content="9bfb94243bbc471475548fc5e7f9ecf0">
 </head>
 <body>
     <h1>🌶️ Discover Your Spicy Lucky Position! 😏</h1>
